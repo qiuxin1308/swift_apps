@@ -1,0 +1,6 @@
+framework module Pods_ClassHero {
+  umbrella header "Pods-ClassHero-umbrella.h"
+
+  export *
+  module * { export * }
+}

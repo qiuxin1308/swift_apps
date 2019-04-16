@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>440981243354-gi6hk4d2d9akb0k3gvea0nmva9hinpjg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.440981243354-gi6hk4d2d9akb0k3gvea0nmva9hinpjg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXFz3wdx8GBGXIQ2_F3epw7N--t3U6MwE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>440981243354</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.WashU.ClassHero</string>
+	<key>PROJECT_ID</key>
+	<string>classhero-1193d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>classhero-1193d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:440981243354:ios:1e2b6062ebe10d09</string>
+	<key>DATABASE_URL</key>
+	<string>https://classhero-1193d.firebaseio.com</string>
+</dict>
+</plist>
